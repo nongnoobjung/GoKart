@@ -2,6 +2,6 @@
 
 A KartRider emulator coded in C#
 
-Coded by: Andrew
-
 Kartrider client: mega:///#!bME2hKzK!1u0jEQgeaZpsEYJw_cmMAYXfau6c5e7zpj3KANnJ9g8
+
+Coded by: Andrew
